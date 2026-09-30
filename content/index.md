@@ -3,7 +3,7 @@ title: Table of Contents
 ---
 ## Offense
 - **[[Setups]]**
-- Combos
+- [[Combos]]
 - Safejumps
 - Resources
 

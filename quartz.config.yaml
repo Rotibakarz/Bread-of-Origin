@@ -113,8 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
-      mode: both
+      theme: vanilla-palettes.gruvbox-medium
+      mode: light
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"

@@ -3,8 +3,8 @@ title: Table of Contents
 ---
 ## Offense
 - **[[Setups]]**
-- [[Combos]]
-- Safejumps
+- **[[index/Combos|Combos]]**
+- **[[Bread-of-Origin/Safejumps|Safejumps]]**
 - Resources
 
 ## Knowledge

@@ -1,4 +1,4 @@
-- [[Setups/Fshikis/Devious Setup]]
+- [[Setups/Fshikis/Devious Setup|Devious Setup]]
 
 
 ## TK Spell

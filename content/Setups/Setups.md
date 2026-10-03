@@ -1,5 +1,5 @@
 # General
-- [[Fshikis]]
+- [[Setups/Fshikis|Fshikis]]
 - [[Throws]]
 - Roman Cancels
 # Spells

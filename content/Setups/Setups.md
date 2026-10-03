@@ -1,6 +1,6 @@
 # General
 - [[Fshikis]]
-- Throws
+- [[Throws]]
 - Roman Cancels
 # Spells
 - Slow Staff

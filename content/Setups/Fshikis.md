@@ -1,3 +1,6 @@
+- [[Devious Setup]]
+
+
 ## TK Spell
 ![[8mb.video-LZY-OguYcSfj.mp4]]
 

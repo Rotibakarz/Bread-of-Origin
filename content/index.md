@@ -2,9 +2,9 @@
 title: Table of Contents
 ---
 ## Offense
-- **[[Setups]]**
-- **[[Combos]]**
-- Safejumps
+- [[Setups w]]
+- [[Combos w]]
+- [[Safejumps]]
 - Resources
 
 ## Knowledge

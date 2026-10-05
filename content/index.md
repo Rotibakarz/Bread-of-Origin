@@ -2,8 +2,8 @@
 title: Table of Contents
 ---
 ## Offense
-- [[Setups w]]
-- [[Combos w]]
+- [[Setups]]
+- [[Combos]]
 - [[Safejumps]]
 - Resources
 

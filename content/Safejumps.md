@@ -10,7 +10,7 @@
 - [**Superjump j.K air route**]
 - [**HKD Fshiki (Manual Timed)**]
 ## Spells
-- [[Setups/Aquila Setups/Basic Aquila Fuzzy|Basic Aquila Fuzzy]]
+- [[Basic Aquila Fuzzy|Basic Aquila Fuzzy]]
 - [**2P Abare SJ**]
 - [**j.Terra Spell-less SJ**]
 - [**6H Lowpass Setup**]

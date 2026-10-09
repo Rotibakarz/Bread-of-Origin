@@ -8,7 +8,7 @@
 - Gravity Rod
 - Repulsion Rod
 
-- [[Setups/Aquila|Aquila]]
+- [[Aquila|Aquila]]
 - Screamer
 - Tardus
 - Arpeggio
